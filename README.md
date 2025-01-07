@@ -1,4 +1,4 @@
-# *C*ross-*P*latform *P*ackage *M*anager <sub>(CPPM)</sub>
+ # *C*ross-*P*latform *P*ackage *M*anager <sub>(CPPM)</sub>
 CPPM is the **C**ross-**P**latform **P**ackage **M**anager, a shell-based
 command-line installer that works on **Windows, macOS, and GNU/Linux**.
 ## Usage
